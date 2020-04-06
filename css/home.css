@@ -1,0 +1,47 @@
+/* body{
+ 
+   
+} */
+.logo{
+    
+    height: 60px;
+    width: 88px;
+}
+.header{
+    
+   
+    background-color: #201c1c ;
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.heading{
+    float: right;
+    padding-top: 40px;
+    padding-right: 30px;
+}
+
+.head_butsec{
+    padding-top: 10px;
+    padding-right: 70px;
+    float: right;
+    display: flex;
+}
+.bg-blue{
+    background-color: #e74b35;
+}
+.img{
+    width: 253px;
+    height: 253px;
+}
+.badge-main{
+    /* background-color: cyan; */
+    padding-left: 10px;
+    padding-bottom: 3px;
+}
+.twhite{
+    color: white;
+}
+.loadbut{
+    padding-top: 4rem;
+}
