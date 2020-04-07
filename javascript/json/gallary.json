@@ -1,42 +1,45 @@
 
-   [ {
+   [ {  "id": 1,
         "color": "red",
         "design": "plain",
         "info": "Feel hot make feel jellous",
-        "img-main":"https://yuvaraj-2001.github.io/saree/images/red/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/red/main.jpg",
          "fli1": "https://yuvaraj-2001.github.io/saree/images/red/sli1.jpg",
          "fli2": "https://yuvaraj-2001.github.io/saree/images/red/sli2.jpg",
          "fli3": "https://yuvaraj-2001.github.io/saree/images/red/sli3.jpg",
          "oldprice": "₹ 1299",
          "newprice": "₹ 999"
     },
-    {
+    { 
+        "id": 2,
         "color": "white",
         "design": "plain",
         "info": "Look more white",
-        "img-main":"https://yuvaraj-2001.github.io/saree/images/white/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/white/main.jpg",
          "fli1": "https://yuvaraj-2001.github.io/saree/images/white/sli1.jpg",
          "fli2": "https://yuvaraj-2001.github.io/saree/images/white/sli2.jpg",
          "fli3": "https://yuvaraj-2001.github.io/saree/images/white/sli3.jpg",
          "oldprice": "₹ 1299",
          "newprice": "₹ 999"
     },
-    {
+    {   
+        "id": 3,
         "color": "green",
         "design": "plain",
         "info": "Naturality is the new trend",
-        "img-main":"https://yuvaraj-2001.github.io/saree/images/green/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/green/main.jpg",
          "fli1": "https://yuvaraj-2001.github.io/saree/images/green/sli1.jpg",
          "fli2": "https://yuvaraj-2001.github.io/saree/images/green/sli2.jpg",
          "fli3": "https://yuvaraj-2001.github.io/saree/images/green/sli4.jpg",
          "oldprice": "₹ 1299",
          "newprice": "₹ 999"
     },
-    {
+    {    
+        "id": 4,
         "color": "black",
         "design": "plain",
         "info": "Be mystrious style",
-        "img-main":"https://yuvaraj-2001.github.io/saree/images/black/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/black/main.jpg",
          "fli1": "https://yuvaraj-2001.github.io/saree/images/black/sli1.jpg",
          "fli2": "https://yuvaraj-2001.github.io/saree/images/black/sli2.jpg",
          "fli3": "https://yuvaraj-2001.github.io/saree/images/black/sli3.jpg",
@@ -44,10 +47,11 @@
          "newprice": "₹ 999"
     },
     {
+        "id": 5,
         "color": "blue",
         "design": "plain",
         "info": "kinda lovly",
-        "img-main":"https://yuvaraj-2001.github.io/saree/images/blue/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/blue/main.jpg",
         "fli1": "https://yuvaraj-2001.github.io/saree/images/blue/sli1.jpg",
         "fli2": "https://yuvaraj-2001.github.io/saree/images/blue/sli2.jpg",
         "fli3": "https://yuvaraj-2001.github.io/saree/images/blue/sli3.jpg",
@@ -55,10 +59,11 @@
         "newprice": "₹ 999"
     },
     {
+        "id": 6,
         "color": "yellow",
         "design": "plain",
         "info": "unique tradition",
-        "img-main":"https://yuvaraj-2001.github.io/saree/images/yellow/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/yellow/main.jpg",
          "fli1": "https://yuvaraj-2001.github.io/saree/images/yellow/sli1.jpg",
          "fli2": "https://yuvaraj-2001.github.io/saree/images/yellow/sli2.jpg",
          "fli3": "https://yuvaraj-2001.github.io/saree/images/yellow/sli3.jpg",
@@ -66,10 +71,11 @@
          "newprice": "₹ 999"
     },
     {
+        "id": 7,
         "color": "pink",
         "design": "plain",
         "info": "beauity kind",
-        "img-main":"https://yuvaraj-2001.github.io/saree/images/pink/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/pink/main.jpg",
          "fli1": "https://yuvaraj-2001.github.io/saree/images/pink/sli1.jpg",
          "fli2": "https://yuvaraj-2001.github.io/saree/images/pink/sli2.jpg",
          "fli3": "https://yuvaraj-2001.github.io/saree/images/pink/sli3.jpg",
