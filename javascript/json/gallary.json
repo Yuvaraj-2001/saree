@@ -81,7 +81,18 @@
          "fli3": "https://yuvaraj-2001.github.io/saree/images/pink/sli3.jpg",
          "oldprice": "₹ 1299",
          "newprice": "₹ 999"
-    }
+    },
+    {  "id": 7,
+        "color": "red",
+        "design": "plain",
+        "info": "Feel hot make feel jellous",
+        "main":"https://yuvaraj-2001.github.io/saree/images/red/main.jpg",
+         "fli1": "https://yuvaraj-2001.github.io/saree/images/red/sli1.jpg",
+         "fli2": "https://yuvaraj-2001.github.io/saree/images/red/sli2.jpg",
+         "fli3": "https://yuvaraj-2001.github.io/saree/images/red/sli3.jpg",
+         "oldprice": "₹ 1299",
+         "newprice": "₹ 999"
+    },
     
    ]
 
