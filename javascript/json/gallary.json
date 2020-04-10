@@ -1,5 +1,5 @@
 
-   [ {  "id": 1,
+   [ {  "id": 0,
         "color": "red",
         "design": "plain",
         "info": "Feel hot make feel jellous",
@@ -11,7 +11,7 @@
          "newprice": "₹ 999"
     },
     { 
-        "id": 2,
+        "id": 1,
         "color": "white",
         "design": "plain",
         "info": "Look more white",
@@ -23,7 +23,7 @@
          "newprice": "₹ 999"
     },
     {   
-        "id": 3,
+        "id": 2,
         "color": "green",
         "design": "plain",
         "info": "Naturality is the new trend",
@@ -35,7 +35,7 @@
          "newprice": "₹ 999"
     },
     {    
-        "id": 4,
+        "id": 3,
         "color": "black",
         "design": "plain",
         "info": "Be mystrious style",
@@ -47,7 +47,7 @@
          "newprice": "₹ 999"
     },
     {
-        "id": 5,
+        "id": 4,
         "color": "blue",
         "design": "plain",
         "info": "kinda lovly",
@@ -59,7 +59,7 @@
         "newprice": "₹ 999"
     },
     {
-        "id": 6,
+        "id": 5,
         "color": "yellow",
         "design": "plain",
         "info": "unique tradition",
@@ -71,7 +71,7 @@
          "newprice": "₹ 999"
     },
     {
-        "id": 7,
+        "id": 6,
         "color": "pink",
         "design": "plain",
         "info": "beauity kind",
