@@ -97,7 +97,7 @@
         "color": "green",
         "design": "plain",
         "info": "A good saree for occasions",
-        "main":"https://yuvaraj-2001.github.io/saree/images/green_plain/main.jpg",
+        "main":"https://yuvaraj-2001.github.io/saree/images/green_plain/main.jpeg",
          "fli1": "https://yuvaraj-2001.github.io/saree/images/green_plain/fli1.jpg",
          "fli2": "https://yuvaraj-2001.github.io/saree/images/green_plain/fli2.jpg",
          "fli3": "https://yuvaraj-2001.github.io/saree/images/green_plain/fli3.jpg",
@@ -108,10 +108,10 @@
   "color": "blue",
   "design": "plain",
   "info": "A good saree for occasions",
-  "main":"https://yuvaraj-2001.github.io/saree/images/blue_plain/main.jpg",
-   "fli1": "https://yuvaraj-2001.github.io/saree/images/blue_plain/fli1.jpg",
-   "fli2": "https://yuvaraj-2001.github.io/saree/images/blue_plain/fli2.jpg",
-   "fli3": "https://yuvaraj-2001.github.io/saree/images/blue_plain/fli3.jpg",
+  "main":"https://yuvaraj-2001.github.io/saree/images/blue_plain/main.jpeg",
+   "fli1": "https://yuvaraj-2001.github.io/saree/images/blue_plain/fli1.jpeg",
+   "fli2": "https://yuvaraj-2001.github.io/saree/images/blue_plain/fli2.jpeg",
+   "fli3": "https://yuvaraj-2001.github.io/saree/images/blue_plain/fli3.jpeg",
    "oldprice": "₹ 1299",
    "newprice": "₹ 1100"
 }
